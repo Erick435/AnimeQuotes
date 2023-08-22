@@ -4,8 +4,6 @@
 1. [About](#about)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Contribute](#contribute)
-5. [License](#license)
 
 ## About <a name="about"></a>
 
